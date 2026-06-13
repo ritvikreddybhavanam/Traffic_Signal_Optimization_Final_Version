@@ -1,0 +1,48 @@
+2026-06-11 12:37:45,069 | INFO | Simulation Started
+2026-06-11 12:37:45,069 | INFO | CO1 Completed
+2026-06-11 12:38:44,885 | INFO | Simulation Started
+2026-06-11 12:38:44,885 | INFO | CO1 Completed
+2026-06-11 12:38:44,885 | INFO | CO2 Completed
+2026-06-11 12:38:44,885 | INFO | CO3 Completed
+2026-06-11 12:38:44,886 | INFO | CO4 Completed
+2026-06-11 12:38:44,886 | INFO | CO5 Completed
+2026-06-11 12:38:44,886 | INFO | Final Decision: east
+2026-06-11 12:38:44,887 | INFO | Step 1 Completed
+2026-06-11 12:38:44,887 | INFO | CO1 Completed
+2026-06-11 12:38:44,887 | INFO | CO2 Completed
+2026-06-11 12:38:44,887 | INFO | CO3 Completed
+2026-06-11 12:38:44,887 | INFO | CO4 Completed
+2026-06-11 12:38:44,887 | INFO | CO5 Completed
+2026-06-11 12:38:44,890 | INFO | Final Decision: north
+2026-06-11 12:38:44,890 | INFO | Step 2 Completed
+2026-06-11 12:38:44,890 | INFO | CO1 Completed
+2026-06-11 12:38:44,890 | INFO | CO2 Completed
+2026-06-11 12:38:44,890 | INFO | CO3 Completed
+2026-06-11 12:38:44,890 | INFO | CO4 Completed
+2026-06-11 12:38:44,890 | INFO | CO5 Completed
+2026-06-11 12:38:44,891 | INFO | Final Decision: west
+2026-06-11 12:38:44,891 | INFO | Step 3 Completed
+2026-06-11 12:38:44,891 | INFO | Simulation Completed
+2026-06-11 12:41:25,331 | INFO | Simulation Started
+2026-06-11 12:41:25,331 | INFO | CO1 Completed
+2026-06-11 12:41:25,332 | INFO | CO2 Completed
+2026-06-11 12:41:25,332 | INFO | CO3 Completed
+2026-06-11 12:41:25,332 | INFO | CO4 Completed
+2026-06-11 12:41:25,332 | INFO | CO5 Completed
+2026-06-11 12:41:25,332 | INFO | Final Decision: north
+2026-06-11 12:41:25,334 | INFO | Step 1 Completed
+2026-06-11 12:41:25,334 | INFO | CO1 Completed
+2026-06-11 12:41:25,335 | INFO | CO2 Completed
+2026-06-11 12:41:25,335 | INFO | CO3 Completed
+2026-06-11 12:41:25,335 | INFO | CO4 Completed
+2026-06-11 12:41:25,335 | INFO | CO5 Completed
+2026-06-11 12:41:25,335 | INFO | Final Decision: north
+2026-06-11 12:41:25,335 | INFO | Step 2 Completed
+2026-06-11 12:41:25,335 | INFO | CO1 Completed
+2026-06-11 12:41:25,336 | INFO | CO2 Completed
+2026-06-11 12:41:25,336 | INFO | CO3 Completed
+2026-06-11 12:41:25,336 | INFO | CO4 Completed
+2026-06-11 12:41:25,336 | INFO | CO5 Completed
+2026-06-11 12:41:25,336 | INFO | Final Decision: north
+2026-06-11 12:41:25,336 | INFO | Step 3 Completed
+2026-06-11 12:41:25,336 | INFO | Simulation Completed
